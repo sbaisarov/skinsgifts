@@ -10,4 +10,4 @@ The automated system comprises:
 * Automated selling steam gifts assets on g2a for USD or RUB (ajax). Games description are fetched from the steam store (ajax)
 * Automated exchanging money from Webmoney to QIWI on smartwm.ru (ajax)
 * Calculates profit for a period of a month. The profit is reported as a .csv file
-`As you can see this is a cycled system to earn money. All you have to do is to configure the code for your needs and deposit some money on QIWI or Webmoney e-wallet`
+`As you can see this is a cycled system to earn money. All you have to do is to configure the code for your needs and deposit money on QIWI or Webmoney e-wallet`
